@@ -92,3 +92,4 @@ OpenAI for the powerful Whisper model.
 The VideoLAN team for the robust VLC media player.
 
 The FFmpeg team for their essential multimedia framework.
+
