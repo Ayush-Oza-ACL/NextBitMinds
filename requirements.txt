@@ -3,3 +3,6 @@ openai-whisper
 python-vlc
 ffmpeg-python
 numpy
+pytest
+pytest-mock
+
