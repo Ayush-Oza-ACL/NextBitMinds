@@ -1,0 +1,5 @@
+# requirements.txt
+openai-whisper
+python-vlc
+ffmpeg-python
+numpy
