@@ -39,9 +39,8 @@ Follow these steps to get the application running on your local machine.
 
 -   **Python 3.7+**
 -   **FFmpeg**: You must have FFmpeg installed and available in your system's PATH.
-    -   **Windows**: Download from [gyan.dev](https://www.gyan.dev/ffmpeg/builds/) and add the `bin` folder to your PATH.
-    -   **macOS**: `brew install ffmpeg`
     -   **Linux**: `sudo apt update && sudo apt install ffmpeg`
+-   `sudo apt vlc libvlc-dev` 
 
 ### 2. Clone the Repository
 
