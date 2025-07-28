@@ -8,6 +8,12 @@ A desktop application that provides real-time English translations for videos in
 This project leverages OpenAI's Whisper for state-of-the-art speech-to-text translation, FFmpeg for efficient audio processing, and VLC for video playback, all wrapped in a user-friendly Tkinter GUI.
 
 ---
+## Hardware requirements 
+- `large` model - Higher accuracy 
+    - NVIDIA Jetson AGX Orin 64GB Developer Kit (Tested on this)
+- `base` model - Lower accuracy but fast processing
+    - Any Linux machine.
+---
 
 ## Features
 
