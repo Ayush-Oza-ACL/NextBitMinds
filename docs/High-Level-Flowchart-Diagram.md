@@ -1,6 +1,6 @@
-# 📽️ High-Level-Flowchart-Diagram for Automated Video Dubbing
+# High-Level-Flowchart-Diagram for Automated Video Dubbing
 
-This Mermaid diagram represents the layered architecture of the video upload system with French-to-English caption translation.
+This diagram represents the layered architecture of the video upload system with French-to-English caption translation.
 
 ```mermaid
 graph TD
